@@ -50,7 +50,7 @@ const Contact = () => {
             <a href="#" className="p-3 border border-border rounded-lg hover:border-primary/50 hover:text-primary transition-all">
               <Github className="w-5 h-5" strokeWidth={1.25} />
             </a>
-            <a href="#" className="p-3 border border-border rounded-lg hover:border-primary/50 hover:text-primary transition-all">
+            <a href="https://www.linkedin.com/in/rajalingam-narayanakumar-578a69348" target="_blank" rel="noopener noreferrer" className="p-3 border border-border rounded-lg hover:border-primary/50 hover:text-primary transition-all">
               <Linkedin className="w-5 h-5" strokeWidth={1.25} />
             </a>
           </div>

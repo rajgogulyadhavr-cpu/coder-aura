@@ -10,7 +10,7 @@ const Footer = () => (
         <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
           <Github className="w-4 h-4" strokeWidth={1.25} />
         </a>
-        <a href="#" className="text-muted-foreground hover:text-primary transition-colors">
+        <a href="https://www.linkedin.com/in/rajalingam-narayanakumar-578a69348" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
           <Linkedin className="w-4 h-4" strokeWidth={1.25} />
         </a>
         <a href="mailto:rajgogulyadhavr@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
