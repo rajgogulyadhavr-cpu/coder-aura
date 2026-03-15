@@ -8,7 +8,7 @@ const timeline = [
     title: "B.Tech – AI & Data Science",
     institution: "Chettinad College of Engineering and Technology, Karur",
     detail: "CGPA: 8.46",
-    period: "2022 – Present",
+    period: "2023 – Present",
     highlight: true,
   },
   {
@@ -16,7 +16,7 @@ const timeline = [
     title: "Higher Secondary (12th)",
     institution: "Government Higher Secondary School, Ayyarmalai",
     detail: "92% – School First | Centum in Computer Science",
-    period: "2022",
+    period: "2022-23",
   },
   {
     icon: School,
